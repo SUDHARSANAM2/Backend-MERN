@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "init": "^0.1.2",
+    "mongodb": "^6.13.0",
+    "mongoose": "^8.9.7"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "Server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
